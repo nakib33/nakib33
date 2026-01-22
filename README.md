@@ -1,79 +1,73 @@
-# 👋 Hi, I'm Nakib Uddin Ahmed  
-**Data Analyst | Data Scientist | BI Analyst | YouTube Content Creator**  
-📍 Sylhet, Bangladesh | 📧 nakibuddin33@gmail.com | 📞 +8801646819354  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Nakib Uddin Ahmed</h1>
+<h3 align="center">Data Scientist | AI Researcher | Machine Learning Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 📌 About Me  
-I am a data-driven professional passionate about leveraging **Machine Learning, Data Science, and Data Analytics** to uncover insights, optimize processes, and drive data-informed decisions. With a strong foundation in statistical analysis, predictive modeling, and data visualization, I specialize in transforming complex datasets into actionable intelligence.
-
-I hold a **BSc in Computer Science and Engineering** from Metropolitan University, Bangladesh, and have hands-on experience in **Python, SQL, R, Power BI, Tableau, and ML frameworks**.
-
----
-
-## 🛠️ Technical Skills  
-### Programming & Data Manipulation  
-`Python` `SQL` `R` `Pandas` `NumPy`  
-
-### Machine Learning & AI  
-`Supervised & Unsupervised Learning` `Deep Learning (TensorFlow, PyTorch)` `NLP`  
-
-### Data Visualization & BI Tools  
-`Power BI` `Tableau` `Excel` `Matplotlib` `Seaborn`  
-
-### Database & Big Data  
-`MySQL` `PostgreSQL` `SQL Server`  
-
-### Data Processing & Automation  
-`ETL` `Web Scraping` `Data Cleaning` `PL/SQL` `MLOps` `EDA`  
+## 🚀 About Me
+- 🎓 Background in **Data Science, AI & Machine Learning**
+- 🔍 Research focus on **Fraud Detection** & **Exoplanet Classification**
+- 📊 Experienced in **Predictive Modeling, KPI Design & BI Dashboards**
+- 🧠 Passionate about **AI for real-world problem solving**
+- 🌍 Based in **Bangladesh**
 
 ---
 
-## 📈 Experience  
-### 🧠 Junior Data Strategist – ZeuZ  
-*Jan 2025 – Present*  
-- Working on data strategy, insights extraction, and business intelligence.
-
-### 🌐 Web Developer & CRM Administrator – Global Education Care  
-*Jan 2024 – Dec 2024*  
-- Managed CRM systems and developed web solutions.
-
-### 🤖 Machine Learning Engineer – DataSoft Systems Bangladesh  
-*Aug 2023 – Nov 2024*  
-- Built and deployed ML models for real-world applications.
-
-### 💻 IT Support Technician – UCEP Bangladesh  
-*Jul 2022 – Jun 2023*  
-- Provided IT support, training, and system maintenance.
+## 🧪 Research & Publications
+- 🧠 **AI-based Detection of Fraudulent Job Advertisements** *(Accepted – Publishing Soon)*
+- 🌌 **Machine Learning Classification of Exoplanets** *(Accepted – Publishing Soon)*
 
 ---
 
-## 🎓 Education  
-- **BSc in Computer Science & Engineering** – Metropolitan University Bangladesh *(2018–2022)*  
-- **HSC in Science** – SAARC International College *(2015–2017)*  
-- **SSC in Science** – Airport High School Sylhet *(2013–2015)*  
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,pandas,numpy,sql,git,github,linux,tableau,powerbi" />
+</p>
 
 ---
 
-## 📜 Certifications  
-- CV Writing  
-- Exploring Data Transformation with Google Cloud  
-- SQL (Intermediate & Advanced)  
-- Communication Skill  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakib33)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakibuddin33@gmail.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannel) *(if applicable)*  
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakib33&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakib33&layout=compact&theme=radical)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> *“Turning data into decisions, one query at a time.”*
+## ⚡ Fun Fact
+> “Data tells a story — I turn it into decisions.”
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

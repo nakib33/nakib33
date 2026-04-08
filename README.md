@@ -1,6 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Nakib Uddin Ahmed</h1>
-<h3 align="center">Data Scientist | AI Researcher | Machine Learning Engineer</h3>
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Nakib%20Uddin%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%26%20Data%20Scientist&descAlignY=58&descSize=18&descColor=a8b2d8" 
+    alt="Nakib Uddin Ahmed | Full-Stack AI Engineer & Data Scientist"
+  />
+</div>
 
 <p align="center">
   <a href="https://github.com/your-username">
